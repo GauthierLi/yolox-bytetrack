@@ -1,4 +1,9 @@
-## ByteTracker re-implement
+# ByteTracker re-implement
+![GitHub stars](https://img.shields.io/github/stars/GauthierLi/yolox-bytetrack?style=social)
+![GitHub forks](https://img.shields.io/github/forks/GauthierLi/yolox-bytetrack?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/GauthierLi/yolox-bytetrack?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/GauthierLi/yolox-bytetrack)
+![GitHub language count](https://img.shields.io/github/languages/count/GauthierLi/yolox-bytetrack)
 
 1. first download yolox weights with the Introduction of [YOLOX](README_YOLOX.md)
 
@@ -22,4 +27,4 @@ options:
 
 ## TODO List 
 - [x] base function of byte tracker
-- [] kalman filter 
+- [ ] kalman filter 
